@@ -1,0 +1,1 @@
+# Design-of-a-common-emitter-BJT-amplifier
