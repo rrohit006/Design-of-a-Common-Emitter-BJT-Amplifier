@@ -1,1 +1,1 @@
-# Design-of-a-common-emitter-BJT-amplifier
+# Design of a Common Emitter BJT Amplifier
